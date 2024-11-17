@@ -1,0 +1,13 @@
+/.DS_Store
+/.vscode
+/cs238
+/jitc.d
+/jitc.o
+/lexer.d
+/lexer.o
+/main.d
+/main.o
+/parser.d
+/parser.o
+/system.d
+/system.o
